@@ -18,5 +18,9 @@
   "homepage": "https://restyle5.github.io/boilerplate-npm#readme",
   "version": "1.0.0",
   "author": "Abdur rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "Abdur",
+    "rahman"
+  ]
 }
